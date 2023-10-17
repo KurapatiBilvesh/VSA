@@ -1,1 +1,2 @@
 sentiment_model_vsa.pkl filter=lfs diff=lfs merge=lfs -text
+sentiment_analysis_model.pkl filter=lfs diff=lfs merge=lfs -text
